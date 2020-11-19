@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\ASUS\pcSoftware\baiduwangpan\baiduwangpanDownloads\mybatis-spring-springmvc-oracle-maven高级-权限管理\01-MyBatis\01-第一天\代码\mybati第一天源码\day01_eesy_03mybatis_dao\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
